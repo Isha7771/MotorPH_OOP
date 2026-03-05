@@ -1,0 +1,9 @@
+Request ID,Employee Name,Date,No. of Requests,Hours,Status,Actions,Reasons
+OT-0001,Juan Dela Cruz,2026-02-20,1,2 Hours,PENDING,,Emergency system deployment
+OT-0002,Maria Santos,2026-02-21,1,1 Hour,PENDING,,Month-end financial closing
+OT-0003,Manuel III Garcia,2026-02-25,1,3 Hours,PENDING,,Inventory reconciliation
+OT-0004,Antonio Lim,2026-02-25,1,2 Hours,APPROVED,,Client deadline completion
+OT-0005,Isabella Reyes,2026-02-24,1,2 Hours,REJECTED,,Server maintenance and updates
+OT-0006,Eduard Hernandez,2026-02-20,1,1 Hour,REJECTED,,Payroll processing assistance
+OT-0007,Brad San Jose,2026-02-25,1,2 Hours,APPROVED,,Unexpected staff shortage coverage
+OT-0008,Employee,3/4/2026,1,1 Hours,REJECTED,,testing

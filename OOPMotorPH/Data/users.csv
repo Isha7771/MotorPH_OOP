@@ -1,0 +1,35 @@
+Username,Password,Role,EmployeeNo,LastName,FirstName,Position,Category
+10001,MotorPH@10001,ADMIN,10001,Garcia,Manuel III,Chief Executive Officer,Regular
+10002,MotorPH@10002,ADMIN,10002,Lim,Antonio,Chief Operating Officer,Regular
+10003,MotorPH@10003,ADMIN,10003,Aquino,Bianca Sofia,Chief Finance Officer,Regular
+10004,MotorPH@10004,ADMIN,10004,Reyes,Isabella,Chief Marketing Officer,Regular
+10005,MotorPH@10005,EMPLOYEE,10005,Hernandez,Eduard,IT Operations and Systems,Regular
+10006,MotorPH@10006,HR_STAFF,10006,Villanueva,Andrea Mae,HR Manager,Regular
+10007,MotorPH@10007,HR_STAFF,10007,San Jose,Brad,HR Team Leader,Regular
+10008,MotorPH@10008,HR_STAFF,10008,Romualdez,Alice,HR Rank and File,Regular
+10009,MotorPH@10009,HR_STAFF,10009,Atienza,Rosie,HR Rank and File,Regular
+10010,MotorPH@10010,EMPLOYEE,10010,Alvaro,Roderick,Accounting Head,Regular
+10011,MotorPH@10011,PAYROLL_STAFF,10011,Salcedo,Anthony,Payroll Manager,Regular
+10012,MotorPH@10012,PAYROLL_STAFF,10012,Lopez,Josie,Payroll Team Leader,Regular
+10013,MotorPH@10013,PAYROLL_STAFF,10013,Farala,Martha,Payroll Rank and File,Regular
+10014,MotorPH@10014,PAYROLL_STAFF,10014,Martinez,Leila,Payroll Rank and File,Regular
+10015,MotorPH@10015,EMPLOYEE,10015,Romualdez,Fredrick,Account Manager,Regular
+10016,MotorPH@10016,EMPLOYEE,10016,Mata,Christian,Account Team Leader,Regular
+10017,MotorPH@10017,EMPLOYEE,10017,De Leon,Selena,Account Team Leader,Regular
+10018,MotorPH@10018,EMPLOYEE,10018,San Jose,Allison,Account Rank and File,Regular
+10019,MotorPH@10019,EMPLOYEE,10019,Rosario,Cydney,Account Rank and File,Regular
+10020,MotorPH@10020,EMPLOYEE,10020,Bautista,Mark,Account Rank and File,Regular
+10021,MotorPH@10021,EMPLOYEE,10021,Lazaro,Darlene,Account Rank and File,Probational
+10022,MotorPH@10022,EMPLOYEE,10022,Delos Santos,Kolby,Account Rank and File,Probational
+10023,MotorPH@10023,EMPLOYEE,10023,Santos,Vella,Account Rank and File,Probational
+10024,MotorPH@10024,EMPLOYEE,10024,Del Rosario,Tomas,Account Rank and File,Probational
+10025,MotorPH@10025,EMPLOYEE,10025,Tolentino,Jacklyn,Account Rank and File,Probational
+10026,MotorPH@10026,EMPLOYEE,10026,Gutierrez,Percival,Account Rank and File,Probational
+10027,MotorPH@10027,EMPLOYEE,10027,Manalaysay,Garfield,Account Rank and File,Probational
+10028,MotorPH@10028,EMPLOYEE,10028,Villegas,Lizeth,Account Rank and File,Probational
+10029,MotorPH@10029,EMPLOYEE,10029,Ramos,Carol,Account Rank and File,Probational
+10030,MotorPH@10030,EMPLOYEE,10030,Maceda,Emelia,Account Rank and File,Probational
+10031,MotorPH@10031,EMPLOYEE,10031,Aguilar,Delia,Account Rank and File,Probational
+10032,MotorPH@10032,EMPLOYEE,10032,Castro,John Rafael,Sales & Marketing,Regular
+10033,MotorPH@10033,EMPLOYEE,10033,Martinez,Carlos Ian,Supply Chain and Logistics,Regular
+10034,MotorPH@10034,EMPLOYEE,10034,Santos,Beatriz,Customer Service and Relations,Regular

@@ -1,0 +1,5 @@
+username,password,firstName,lastName,role,employeeNo
+supervisor01,pass123,Roderick,Santos,Supervisor,10001
+hr01,pass123,Andrea,Cruz,HR,10002
+payroll01,pass123,Rachel,Reyes,Payroll Staff,10003
+employee01,pass123,Juan,Lim,Employee,10004
