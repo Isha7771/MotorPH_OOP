@@ -132,9 +132,12 @@ public class LoginFrame extends JFrame {
                     next = new HrFrame(user.getEmployeeNo(), user.getLastName(), user.getFirstName());
                 } else if (user.getRole() == Role.PAYROLL_STAFF) {
                     next = new PayrollStaffFrame(user.getEmployeeNo(), user.getLastName(), user.getFirstName());
+                } else if (user.getRole() == Role.ITSTAFF) {
+                    next = new ItFrame(user.getEmployeeNo(), user.getLastName(), user.getFirstName());
                 } else {
                     next = new EmployeeFrame(user.getEmployeeNo(), user.getLastName(), user.getFirstName());
                 }
+
 
                 next.setVisible(true);
                 dispose();
