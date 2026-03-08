@@ -52,6 +52,7 @@ public class RoleSelectionFrame extends JFrame {
         left.add(makeRoleButton("Employee", Role.EMPLOYEE));
         left.add(Box.createVerticalStrut(16));
         left.add(makeRoleButton("HR Staff", Role.HR_STAFF));
+        left.add(makeRoleButton("IT Staff", Role.ITSTAFF));
 
         left.add(Box.createVerticalGlue());
         return left;
